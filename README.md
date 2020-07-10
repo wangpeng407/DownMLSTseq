@@ -1,4 +1,4 @@
-### script for downloading MLST sequences
+# Downloading MLST sequences
 
 ### Usage:
 
